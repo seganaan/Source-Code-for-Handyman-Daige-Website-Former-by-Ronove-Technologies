@@ -1,0 +1,4 @@
+[05-Dec-2023 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/rest-api/class-wp-rest-response.php on line 17

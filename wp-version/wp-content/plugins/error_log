@@ -1,0 +1,24 @@
+[09-Nov-2018 17:34:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 17:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60
+[31-Jan-2019 10:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2019 03:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2019 03:56:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60
+[15-Oct-2019 00:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/handyma1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/wp-content/plugins/hello.php on line 60

@@ -1,0 +1,4 @@
+[01-Sep-2023 15:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/handyma1/public_html/isen.com.ng/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-content/plugins/hello.php on line 69

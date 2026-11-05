@@ -1,0 +1,8 @@
+[22-Aug-2023 11:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwentyone/index.php on line 17
+[22-Aug-2023 11:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwentyone/index.php on line 17

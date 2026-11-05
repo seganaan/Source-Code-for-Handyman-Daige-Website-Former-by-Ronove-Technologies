@@ -1,0 +1,14 @@
+
+# BEGIN EnvatoBackup
+# The directives (lines) between `BEGIN EnvatoBackup` and `END EnvatoBackup` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# This .htaccess file ensures that other people cannot download your backup files.
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{QUERY_STRING} !key=3e692511a6985426675d594a34a20809
+RewriteRule (.*) - [F]
+</IfModule>
+
+# END EnvatoBackup

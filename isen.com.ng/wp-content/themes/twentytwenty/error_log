@@ -1,0 +1,4 @@
+[31-Jan-2025 18:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwenty/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-content/themes/twentytwenty/functions.php on line 147

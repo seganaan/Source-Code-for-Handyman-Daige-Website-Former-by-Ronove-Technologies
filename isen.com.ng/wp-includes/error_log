@@ -1,0 +1,928 @@
+[22-Mar-2023 00:42:01 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 00:42:01 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 00:42:01 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 00:42:01 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 00:42:01 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Mar-2023 00:42:02 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2023 00:42:03 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2023 00:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[25-Mar-2023 16:57:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Mar-2023 16:57:56 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Mar-2023 16:57:56 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Mar-2023 16:57:56 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Mar-2023 16:57:56 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Mar-2023 16:57:58 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[25-Mar-2023 16:58:00 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[25-Mar-2023 16:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[09-Apr-2023 20:15:23 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Apr-2023 20:15:23 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Apr-2023 20:15:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Apr-2023 20:15:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Apr-2023 20:15:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Apr-2023 20:15:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[09-Apr-2023 20:15:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[09-Apr-2023 20:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[28-Apr-2023 06:00:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[28-Apr-2023 06:00:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[28-Apr-2023 06:00:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[28-Apr-2023 06:00:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[28-Apr-2023 06:00:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[28-Apr-2023 06:00:09 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[28-Apr-2023 06:00:12 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[28-Apr-2023 06:00:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[30-Apr-2023 22:27:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Apr-2023 22:27:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Apr-2023 22:27:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Apr-2023 22:27:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Apr-2023 22:27:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Apr-2023 22:27:20 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[30-Apr-2023 22:27:22 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[30-Apr-2023 22:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[09-May-2023 06:19:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-May-2023 06:19:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-May-2023 06:19:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-May-2023 06:19:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-May-2023 06:19:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-May-2023 06:19:39 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[09-May-2023 06:19:40 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[09-May-2023 06:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[12-May-2023 07:03:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 07:03:04 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 07:03:04 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 07:03:04 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 07:03:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 07:03:05 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[12-May-2023 07:03:07 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[12-May-2023 07:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[12-May-2023 12:03:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 12:03:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 12:03:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 12:03:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 12:03:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-May-2023 12:03:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[12-May-2023 12:03:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[12-May-2023 12:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[14-May-2023 19:17:35 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 19:17:35 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 19:17:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 19:17:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 19:17:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 19:17:44 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[14-May-2023 19:17:52 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[14-May-2023 19:19:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[14-May-2023 22:58:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 22:58:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 22:58:08 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 22:58:08 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 22:58:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[14-May-2023 22:58:14 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[14-May-2023 22:58:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[14-May-2023 22:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[16-May-2023 10:58:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[16-May-2023 10:58:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[16-May-2023 10:58:54 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[16-May-2023 10:58:54 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[16-May-2023 10:58:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[16-May-2023 10:58:55 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[16-May-2023 10:58:56 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[16-May-2023 10:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[25-May-2023 16:26:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-May-2023 16:26:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-May-2023 16:26:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-May-2023 16:26:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-May-2023 16:26:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-May-2023 16:27:01 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[25-May-2023 16:27:09 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[25-May-2023 16:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[26-May-2023 05:10:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-May-2023 05:10:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-May-2023 05:10:49 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-May-2023 05:10:49 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-May-2023 05:10:49 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-May-2023 05:10:55 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[26-May-2023 05:10:57 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[26-May-2023 05:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[27-May-2023 20:55:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 20:55:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 20:55:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 20:55:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 20:55:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 20:55:14 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[27-May-2023 20:55:19 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[27-May-2023 20:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[27-May-2023 23:49:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 23:49:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 23:49:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 23:49:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 23:49:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-May-2023 23:49:23 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[27-May-2023 23:49:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[27-May-2023 23:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[02-Jun-2023 17:03:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Jun-2023 17:03:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Jun-2023 17:03:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Jun-2023 17:03:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Jun-2023 17:03:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Jun-2023 17:03:42 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[02-Jun-2023 17:03:45 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[02-Jun-2023 17:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[13-Jun-2023 18:08:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 18:08:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 18:08:39 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 18:08:39 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 18:08:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 18:08:44 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[13-Jun-2023 18:08:48 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[13-Jun-2023 18:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[26-Jun-2023 18:41:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-Jun-2023 18:41:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-Jun-2023 18:41:21 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-Jun-2023 18:41:21 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-Jun-2023 18:41:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[26-Jun-2023 18:41:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[26-Jun-2023 18:41:28 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[26-Jun-2023 18:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[01-Jul-2023 07:48:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 07:48:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 07:48:36 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 07:48:36 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 07:48:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 07:48:40 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[01-Jul-2023 07:48:46 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[01-Jul-2023 07:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 13:38:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 13:38:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 13:38:47 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 13:38:47 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 13:38:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 13:38:50 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 13:38:54 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2023 13:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[05-Jul-2023 18:38:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 18:38:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 18:38:28 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 18:38:28 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 18:38:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 18:38:34 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[05-Jul-2023 18:38:35 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[05-Jul-2023 18:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[10-Jul-2023 03:33:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 03:33:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 03:33:53 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 03:33:53 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 03:33:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 03:33:55 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[10-Jul-2023 03:33:59 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[10-Jul-2023 03:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[12-Jul-2023 03:29:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 03:29:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 03:29:10 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 03:29:10 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 03:29:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 03:29:16 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[12-Jul-2023 03:29:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[12-Jul-2023 03:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[15-Jul-2023 00:41:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 00:41:00 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 00:41:00 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 00:41:00 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 00:41:00 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 00:41:07 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[15-Jul-2023 00:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[15-Jul-2023 14:26:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 14:26:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 14:26:38 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 14:26:38 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 14:26:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 14:26:42 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[15-Jul-2023 14:26:46 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[15-Jul-2023 14:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[25-Jul-2023 02:55:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[25-Jul-2023 02:55:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /h[31-Jul-2023 07:55:06 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:55:06 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:55:06 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:55:06 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:55:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:55:08 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[31-Jul-2023 07:55:11 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[31-Jul-2023 07:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 05:31:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 05:31:34 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 05:31:34 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 05:31:34 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 05:31:34 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 05:31:48 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 05:31:50 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 11:37:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 11:37:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 11:37:11 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 11:37:11 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 11:37:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 11:37:15 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 11:37:19 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 11:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[03-Aug-2023 01:16:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 01:16:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 01:16:08 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 01:16:08 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 01:16:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 01:16:12 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[03-Aug-2023 01:16:19 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[03-Aug-2023 01:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[03-Aug-2023 03:46:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 03:46:17 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 03:46:17 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 03:46:17 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 03:46:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 03:46:19 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[03-Aug-2023 03:46:22 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[03-Aug-2023 03:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[03-Aug-2023 16:27:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 16:27:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 16:27:05 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 16:27:05 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 16:27:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 16:27:08 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[03-Aug-2023 16:27:10 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[03-Aug-2023 16:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[03-Aug-2023 20:09:23 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 20:09:23 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 20:09:23 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 20:09:23 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 20:09:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 20:09:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[03-Aug-2023 20:09:28 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[03-Aug-2023 20:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[05-Aug-2023 22:14:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 22:14:27 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 22:14:27 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 22:14:27 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 22:14:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 22:14:29 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[05-Aug-2023 22:14:30 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[05-Aug-2023 22:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[06-Aug-2023 02:04:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 02:04:13 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 02:04:13 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 02:04:13 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 02:04:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 02:04:27 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[06-Aug-2023 02:04:30 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[06-Aug-2023 02:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[07-Aug-2023 04:13:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 04:13:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 04:13:55 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 04:13:55 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 04:13:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 04:13:59 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[07-Aug-2023 04:14:03 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[07-Aug-2023 04:14:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[09-Aug-2023 09:15:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Aug-2023 09:15:15 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Aug-2023 09:15:15 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Aug-2023 09:15:15 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Aug-2023 09:15:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[09-Aug-2023 09:15:16 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[09-Aug-2023 09:15:18 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[09-Aug-2023 09:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[11-Aug-2023 09:32:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[11-Aug-2023 09:32:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[11-Aug-2023 09:32:44 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[11-Aug-2023 09:32:44 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[11-Aug-2023 09:32:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[11-Aug-2023 09:32:45 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[11-Aug-2023 09:32:46 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[11-Aug-2023 09:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[12-Aug-2023 16:43:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 16:43:18 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 16:43:18 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 16:43:18 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 16:43:18 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 16:43:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[12-Aug-2023 16:43:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[12-Aug-2023 16:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[22-Aug-2023 04:40:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Aug-2023 04:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[22-Aug-2023 04:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[22-Aug-2023 04:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[24-Aug-2023 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[24-Aug-2023 04:39:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[24-Aug-2023 04:39:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[24-Aug-2023 04:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[29-Aug-2023 14:38:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[29-Aug-2023 14:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[29-Aug-2023 14:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[29-Aug-2023 14:39:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[30-Aug-2023 23:52:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[30-Aug-2023 23:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[30-Aug-2023 23:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[30-Aug-2023 23:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[01-Sep-2023 00:34:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Sep-2023 00:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[01-Sep-2023 00:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[01-Sep-2023 00:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[01-Sep-2023 00:54:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[01-Sep-2023 00:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[01-Sep-2023 00:54:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[01-Sep-2023 00:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[22-Oct-2023 17:26:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Oct-2023 17:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[22-Oct-2023 17:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[22-Oct-2023 17:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[22-Oct-2023 17:30:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[22-Oct-2023 17:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[22-Oct-2023 17:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[22-Oct-2023 17:30:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[17-Nov-2023 16:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/handyma1/public_html/isen.com.ng/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/block-patterns.php on line 9
+[17-Nov-2023 16:26:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/cache.php on line 12
+[17-Nov-2023 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-IXR.php on line 42
+[17-Nov-2023 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-feed.php on line 10
+[17-Nov-2023 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-http.php on line 11
+[17-Nov-2023 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-json.php on line 2
+[17-Nov-2023 16:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-oembed.php on line 12
+[17-Nov-2023 16:26:21 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Request library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/handyma1/public_html/isen.com.ng/wp-includes/class-requests.php on line 24
+[17-Nov-2023 16:26:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-simplepie.php on line 5
+[17-Nov-2023 16:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-smtp.php on line 6
+[17-Nov-2023 16:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-snoopy.php on line 6
+[17-Nov-2023 16:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category-dropdown.php on line 17
+[17-Nov-2023 16:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category.php on line 17
+[17-Nov-2023 16:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-comment.php on line 17
+[17-Nov-2023 16:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-nav-menu.php on line 17
+[17-Nov-2023 16:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page-dropdown.php on line 17
+[17-Nov-2023 16:26:44 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page.php on line 17
+[05-Dec-2023 20:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/handyma1/public_html/isen.com.ng/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/block-patterns.php on line 9
+[05-Dec-2023 20:43:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/cache.php on line 12
+[05-Dec-2023 20:43:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-IXR.php on line 42
+[05-Dec-2023 20:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-feed.php on line 10
+[05-Dec-2023 20:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-http.php on line 11
+[05-Dec-2023 20:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-json.php on line 2
+[05-Dec-2023 20:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-oembed.php on line 12
+[05-Dec-2023 20:43:47 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Request library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/handyma1/public_html/isen.com.ng/wp-includes/class-requests.php on line 24
+[05-Dec-2023 20:43:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-simplepie.php on line 5
+[05-Dec-2023 20:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-smtp.php on line 6
+[05-Dec-2023 20:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-snoopy.php on line 6
+[05-Dec-2023 20:43:49 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category-dropdown.php on line 17
+[05-Dec-2023 20:43:49 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-category.php on line 17
+[05-Dec-2023 20:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-comment.php on line 17
+[05-Dec-2023 20:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-nav-menu.php on line 17
+[05-Dec-2023 20:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page-dropdown.php on line 17
+[05-Dec-2023 20:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-walker-page.php on line 17
+[05-Dec-2023 20:43:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-control.php:707
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-control.php on line 707
+[05-Dec-2023 20:43:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-panel.php on line 411
+[05-Dec-2023 20:44:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-section.php on line 412
+[05-Dec-2023 20:44:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-customize-setting.php on line 964
+[05-Dec-2023 20:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-feed-cache.php on line 11
+[05-Dec-2023 20:44:06 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-ixr-client.php on line 9
+[05-Dec-2023 20:44:06 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-requests-hooks.php on line 18
+[05-Dec-2023 20:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http-requests-response.php on line 17
+[05-Dec-2023 20:44:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[05-Dec-2023 20:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-image-editor-gd.php on line 16
+[05-Dec-2023 20:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-image-editor-imagick.php on line 16
+[05-Dec-2023 20:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[05-Dec-2023 20:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-simplepie-file.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-simplepie-file.php on line 21
+[05-Dec-2023 20:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-simplepie-sanitize-kses.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-simplepie-sanitize-kses.php on line 21
+[05-Dec-2023 20:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[05-Dec-2023 20:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[05-Dec-2023 20:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[05-Dec-2023 20:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[05-Dec-2023 20:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-xmlrpc-server.php on line 24
+[05-Dec-2023 20:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-dependencies.php on line 11
+[05-Dec-2023 20:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-scripts.php on line 11
+[05-Dec-2023 20:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class.wp-styles.php on line 11
+[05-Dec-2023 20:44:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/compat.php:342
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/compat.php on line 342
+[05-Dec-2023 20:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/date.php on line 11
+[05-Dec-2023 20:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/handyma1/public_html/isen.com.ng/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/default-filters.php on line 22
+[05-Dec-2023 20:44:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/default-widgets.php on line 11
+[05-Dec-2023 20:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/embed-template.php on line 11
+[05-Dec-2023 20:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-atom-comments.php on line 8
+[05-Dec-2023 20:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-atom.php on line 8
+[05-Dec-2023 20:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rdf.php on line 8
+[05-Dec-2023 20:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss.php on line 8
+[05-Dec-2023 20:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss2-comments.php on line 8
+[05-Dec-2023 20:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/feed-rss2.php on line 8
+[05-Dec-2023 20:44:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/functions.php on line 8
+[05-Dec-2023 20:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/locale.php on line 11
+[05-Dec-2023 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/handyma1/public_html/isen.com.ng/wp-includes/media.php:2173
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/media.php on line 2173
+[05-Dec-2023 20:44:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-blogs.php on line 11
+[05-Dec-2023 20:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-default-filters.php on line 16
+[05-Dec-2023 20:44:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/ms-settings.php on line 35
+[05-Dec-2023 20:44:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/nav-menu-template.php on line 11
+[05-Dec-2023 20:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/registration-functions.php on line 9
+[05-Dec-2023 20:44:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/registration.php on line 9
+[05-Dec-2023 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/rss.php on line 19
+[05-Dec-2023 20:45:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/script-loader.php on line 20
+[05-Dec-2023 20:45:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/session.php on line 9
+[05-Dec-2023 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/handyma1/public_html/isen.com.ng/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/spl-autoload-compat.php on line 14
+[05-Dec-2023 20:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[05-Dec-2023 20:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-loader.php on line 7
+[05-Dec-2023 20:45:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/handyma1/public_html/isen.com.ng/wp-includes/update.php:1080
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/update.php on line 1080
+[05-Dec-2023 20:45:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/handyma1/public_html/isen.com.ng/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/vars.php on line 23
+[05-Dec-2023 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/wp-diff.php on line 13
+[27-Feb-2025 10:34:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[27-Feb-2025 10:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[27-Feb-2025 10:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[27-Feb-2025 10:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[12-Mar-2025 05:11:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[12-Mar-2025 05:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[12-Mar-2025 05:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[12-Mar-2025 05:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
+[13-Mar-2025 01:42:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-http.php on line 11
+[13-Mar-2025 01:42:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-scripts.php on line 18
+[13-Mar-2025 01:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/class-wp-styles.php on line 18
+[13-Mar-2025 01:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handyma1/public_html/isen.com.ng/wp-includes/template-canvas.php on line 12
